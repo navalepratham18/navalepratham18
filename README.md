@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on my Skills
 - 👯 I’m looking to collaborate on Unique And Extraordinary Ideas
 - 💬 Ask me about at [LinkedIn](https://www.linkedin.com/in/prathamesh-navale-39a8172aa/)
-- 📫 How to reach me : [Gmail](workwithprathamesh18@gmail.com)
+- 📫 How to reach me : [Gmail](https://workwithprathamesh18@gmail.com)
 <!--- 🤔 I’m looking for help with ...-->
 <!-- 🌱 I’m currently learning ...-->
 
