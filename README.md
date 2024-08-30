@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Prathamesh Navale👋
 
 <!--
 **navalepratham18/navalepratham18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍🎓 Currently Second Year Btech Student (AI/ML) at PCET's, PIMPRI CHINCHWAD UNIVERSITY
+- 🔭 I’m currently working on my Skills
+<!-- 🌱 I’m currently learning ...-->
+- 👯 I’m looking to collaborate on Unique And Extraordinary Ideas
+<!--- 🤔 I’m looking for help with ...-->
+- 💬 Ask me about at [LinkedIn](www.linkedin.com/in/prathameshnavale18)
+- 📫 How to reach me : [Gmail](workwithprathamesh18@gmail.com)
+
