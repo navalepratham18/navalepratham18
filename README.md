@@ -7,9 +7,9 @@ Here are some ideas to get you started:-->
 
 - 👨🏽‍🎓 Currently Second Year Btech Student (AI/ML) at PCET's, PIMPRI CHINCHWAD UNIVERSITY
 - 🔭 I’m currently working on my Skills
-<!-- 🌱 I’m currently learning ...-->
 - 👯 I’m looking to collaborate on Unique And Extraordinary Ideas
-<!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about at [LinkedIn](www.linkedin.com/in/prathameshnavale18)
 - 📫 How to reach me : [Gmail](workwithprathamesh18@gmail.com)
+<!--- 🤔 I’m looking for help with ...-->
+<!-- 🌱 I’m currently learning ...-->
 
