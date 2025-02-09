@@ -1,8 +1,7 @@
 ## Hi there, I'm Prathamesh Navale👋
 
-# 💫 About Me:
-- 👨🏽‍🎓 Currently Second Year Btech Student (AI/ML) at PCET's, PIMPRI CHINCHWAD UNIVERSITY<br>- 🔭 I’m currently working on my Skills<br>- 👯 I’m looking to collaborate on Unique And Extraordinary Ideas<br>- 💬 Ask me about at [LinkedIn](https://www.linkedin.com/in/prathamesh-navale-39a8172aa/)<br>- 📫 How to reach me : [Gmail](mailto:workwithprathamesh18@gmail.com)
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=navalepratham18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathameshnavale18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:workwithprathamesh18@gmail.com) 
@@ -13,9 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=navalepratham18&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=navalepratham18&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=navalepratham18&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=navalepratham18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=navalepratham18&limit=5&theme=dark&combine_all_yearly_contributions=true)
