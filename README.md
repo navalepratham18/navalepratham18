@@ -32,7 +32,7 @@ I specialize in building intelligent data retrieval systems (RAG), scalable AI p
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Brain Tumor Detection](https://huggingface.co/spaces/Prathamesh-Navale/Brain-Tumor-Detection-using-ML-and-Blockchain)** | **Secure Medical Diagnostics via Blockchain**<br>A hybrid framework merging Random Forest classification with the Ethereum Sepolia blockchain. Anchors dataset hashes on-chain to ensure immutable data provenance and verifiable model integrity. | *Python, Scikit-learn, Solidity, Ethereum, Sepolia Testnet* |
+| **[Brain Tumor Detection using ML & Blockchain](https://huggingface.co/spaces/Prathamesh-Navale/Brain-Tumor-Detection-using-ML-and-Blockchain)** | **Secure Medical Diagnostics via Blockchain**<br>A hybrid framework merging Random Forest classification with the Ethereum Sepolia blockchain. Anchors dataset hashes on-chain to ensure immutable data provenance and verifiable model integrity. | *Python, Scikit-learn, Solidity, Ethereum, Sepolia Testnet* |
 | **[CodeAssist Extension](https://github.com/navalepratham18/Chat-Assistant-VS-Code-Extension)** | **Offline AI Coding Assistant**<br>Lightweight VS Code extension integrating a local LLM (TinyLlama via Ollama). Provides an interactive chat, copyable code blocks, and full offline privacy without API costs. | *JavaScript, Ollama, VS Code API* |
 | **[Pune House Pricing](https://github.com/navalepratham18/Pune-Housing-Price-Prediction)** | **End-to-End Real Estate Estimator**<br>Deployed a Random Forest model via Flask to predict housing prices. Engineered custom features to handle severe data sparsity (69% accuracy) and identify valuation drivers. | *Python, Flask, Scikit-learn, HTML/CSS* |
 
