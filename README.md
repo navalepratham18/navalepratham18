@@ -1,76 +1,44 @@
-<h1 align="center">Hey there! 👋 I'm Prathamesh Navale</h1>
+# Hi, I'm Prathamesh Navale 👋
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=navalepratham18&theme=radical&no-frame=false&no-bg=false&margin-w=4">
-</p>
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=navalepratham18&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=navalepratham18&theme=gruvbox&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navalepratham18&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</p>
-
-# 💻 Tech Stack:
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" height="40" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-<h2 align="center">🌐 Socials</h2>
-<div align="center">
-  <a href="www.linkedin.com/in/prathameshnavale18" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/navalepratham18" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="workwithprathamesh18@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://prathamesh-navale.vercel.app">
+    <img src="https://img.shields.io/badge/✨_View_My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="View Portfolio" />
   </a>
 </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=navalepratham18&limit=5&theme=dark&combine_all_yearly_contributions=true">
-</p>
+### AI/ML Engineer | RAG | Blockchain Developer
+
+I am a Third-Year B.Tech Student (CSE - AI & ML) at Pimpri Chinchwad University and an **IoT Club Treasurer**.
+I specialize in building intelligent data retrieval systems (RAG), scalable AI pipelines, and decentralized applications.
+
+* 🔭 **Selected for:** Samsung Innovation Campus Program (2025).
+* 🌱 **Currently exploring:** Advanced RAG optimizations and Multi-Agent Systems.
+* 👯 **Open to collaboration on:** AI-driven Data Science projects and Web3 integration.
+
+---
+
+### 🛠 Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, C++, SQL, Solidity |
+| **AI & ML** | PyTorch, TensorFlow, LangChain, HuggingFace, Scikit-learn, Pandas |
+| **Backend & Tools** | Flask, Docker, Git/GitHub, Linux, Postman |
+| **Databases** | MongoDB, PostgreSQL, Vector Databases (ChromaDB) |
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Brain Tumor Detection](https://huggingface.co/spaces/Prathamesh-Navale/Brain-Tumor-Detection-using-ML-and-Blockchain)** | **Secure Medical Diagnostics via Blockchain**<br>A hybrid framework merging Random Forest classification with the Ethereum Sepolia blockchain. Anchors dataset hashes on-chain to ensure immutable data provenance and verifiable model integrity. | *Python, Scikit-learn, Solidity, Ethereum, Sepolia Testnet* |
+| **[CodeAssist Extension](https://github.com/navalepratham18/Chat-Assistant-VS-Code-Extension)** | **Offline AI Coding Assistant**<br>Lightweight VS Code extension integrating a local LLM (TinyLlama via Ollama). Provides an interactive chat, copyable code blocks, and full offline privacy without API costs. | *JavaScript, Ollama, VS Code API* |
+| **[Pune House Pricing](https://github.com/navalepratham18/Pune-Housing-Price-Prediction)** | **End-to-End Real Estate Estimator**<br>Deployed a Random Forest model via Flask to predict housing prices. Engineered custom features to handle severe data sparsity (69% accuracy) and identify valuation drivers. | *Python, Flask, Scikit-learn, HTML/CSS* |
+
+---
+
+### 📫 Connect with Me
+
+* **LinkedIn:** [linkedin.com/in/prathameshnavale18](https://www.linkedin.com/in/prathameshnavale18/)
+* **Email:** [workwithprathamesh18@gmail.com](mailto:workwithprathamesh18@gmail.com)
