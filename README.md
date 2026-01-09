@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://prathamesh-navale.vercel.app">
-    <img src="https://img.shields.io/badge/✨_View_My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="View Portfolio" />
+    <img src="https://img.shields.io/badge/✨_View_My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" height="100" alt="View Portfolio" />
   </a>
 </div>
 
@@ -22,8 +22,8 @@ I specialize in building intelligent data retrieval systems (RAG), scalable AI p
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | Python, Java, C++, SQL, Solidity |
-| **AI & ML** | PyTorch, TensorFlow, LangChain, HuggingFace, Scikit-learn, Pandas |
-| **Backend & Tools** | Flask, Docker, Git/GitHub, Linux, Postman |
+| **AI & ML** | Scikit-learn, Pandas, PyTorch, TensorFlow, LangChain, HuggingFace |
+| **Backend & Tools** | Git/GitHub, Flask, Docker, Linux, Postman |
 | **Databases** | MongoDB, PostgreSQL, Vector Databases (ChromaDB) |
 
 ---
