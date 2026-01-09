@@ -1,7 +1,7 @@
 # Hi, I'm Prathamesh Navale 👋
 
 <div align="center">
-  <a href="https://prathamesh-navale.vercel.app">
+  <a href="https://prathamesh-navale.vercel.app" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=header&text=✨%20View%20My%20Portfolio&fontSize=25&fontColor=ffffff&fontAlign=50" alt="View Portfolio"/>
   </a>
 </div>
