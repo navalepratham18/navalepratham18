@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://prathamesh-navale.vercel.app">
-    <img src="https://img.shields.io/badge/✨_View_My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" height="100" alt="View Portfolio" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=header&text=✨%20View%20My%20Portfolio&fontSize=25&fontColor=ffffff&fontAlign=50" alt="View Portfolio"/>
   </a>
 </div>
 
