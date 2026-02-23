@@ -17,6 +17,16 @@ I specialize in building intelligent data retrieval systems (RAG), scalable AI p
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=navalepratham18&theme=dark&hide_border=false" alt="Pratham's GitHub Streak" />
+    <br/>
+</div>
+
+
+---
+
 ### 🛠 Tech Stack
 
 | Domain | Technologies |
