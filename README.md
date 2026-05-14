@@ -19,9 +19,18 @@ I specialize in building intelligent data retrieval systems (RAG), scalable AI p
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://nirzak-streak-stats.vercel.app/?user=navalepratham18&theme=dark&hide_border=false" alt="Pratham's GitHub Streak" />
     <br/>
+</div> -->
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navalepratham18&theme=radical" alt="Profile Details">
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navalepratham18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF" />
+  <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=navalepratham18&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6584&currStreakLabel=6C63FF" /> -->
 </div>
 
 
