@@ -8,10 +8,10 @@
 </div>
 
 
-I am a Third-Year B.Tech Student (CSE - AI & ML) at Pimpri Chinchwad University and an **IoT Club Treasurer**.
+I am a Final-Year B.Tech Student (CSE - AI & ML) at Pimpri Chinchwad University and an **Samsung Innovation Campus 2025 - State Topper**.
 I specialize in building intelligent data retrieval systems (RAG), scalable AI pipelines, and decentralized applications.
 
-* 🔭 **Selected for:** Samsung Innovation Campus Program (2025).
+* 🔭 **Maharashtra State Topper:** Samsung Innovation Campus Program (2025).
 * 🌱 **Currently exploring:** Advanced RAG optimizations and Multi-Agent Systems.
 * 👯 **Open to collaboration on:** AI-driven Data Science projects and Web3 integration.
 
