@@ -4,7 +4,7 @@
   <a href="https://prathamesh-navale.vercel.app" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=header&text=✨%20View%20My%20Portfolio&fontSize=25&fontColor=ffffff&fontAlign=50" alt="View Portfolio"/>
   </a>
-<h2>AI/ML Engineer | RAG | Blockchain Developer</h2>
+<h2>AI/ML Engineer | GenAI | Blockchain </h2>
 </div>
 
 
@@ -41,9 +41,10 @@ I specialize in building intelligent data retrieval systems (RAG), scalable AI p
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | Python, Java, C++, SQL, Solidity |
-| **AI & ML** | Scikit-learn, Pandas, PyTorch, TensorFlow, LangChain, HuggingFace |
+| **AI & ML** | Scikit-learn, Pandas, PyTorch, TensorFlow, Pydantic-AI, OpenSearch, LangChain, HuggingFace |
 | **Backend & Tools** | Git/GitHub, Flask, Docker, Linux, Postman |
 | **Databases** | MongoDB, PostgreSQL, Vector Databases (ChromaDB) |
+| **Automation** | n8n |
 
 ---
 
