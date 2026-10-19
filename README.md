@@ -1,3 +1,4 @@
+
 # Hi, I'm Prathamesh Navale 👋
 
 <div align="center">
@@ -33,6 +34,15 @@ I specialize in building intelligent data retrieval systems (RAG), scalable AI p
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=navalepratham18&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6584&currStreakLabel=6C63FF" />
 </div>
 
+---
+
+### ⚡ LeetCode Stats
+
+<div align="center">
+  <a href="https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github">
+    <img src="https://www.readmecodegen.com/api/leetcode-stats?username=navaleprathamesh18&theme=github_dark&reputation=false" alt="LeetCode Stats" />
+  </a>
+</div>
 
 ---
 
