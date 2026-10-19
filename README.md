@@ -39,7 +39,7 @@ I specialize in building intelligent data retrieval systems (RAG), scalable AI p
 ### ⚡ LeetCode Stats
 
 <div align="center">
-  <a href="https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github">
+  <a href="https://leetcode.com/u/navaleprathamesh18/">
     <img src="https://www.readmecodegen.com/api/leetcode-stats?username=navaleprathamesh18&theme=github_dark&reputation=false" alt="LeetCode Stats" />
   </a>
 </div>
