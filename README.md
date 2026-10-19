@@ -40,7 +40,8 @@ I specialize in building intelligent data retrieval systems (RAG), scalable AI p
 
 <div align="center">
   <a href="https://leetcode.com/u/navaleprathamesh18/">
-    <img src="https://www.readmecodegen.com/api/leetcode-stats?username=navaleprathamesh18&theme=github_dark&reputation=false" alt="LeetCode Stats" />
+    <img src="https://www.readmecodegen.com/api/leetcode-stats?username=navaleprathamesh18&theme=github_dark&reputation=false" alt="LeetCode Stats" /> <br>
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=navaleprathamesh18&theme=github-dark&border=border&animated=true" /> <br><br>
   </a>
 </div>
 
